@@ -1,0 +1,33 @@
+body{
+
+  background-color : rgb(211,211,211);
+}
+div{
+	 margin-left:500px;
+    	 
+}
+h1{
+	color:black;
+}
+#second{
+	margin-left:40px;
+	margin-right:25px;
+	margin-top:15px;
+	margin-bottom:15px;
+	
+}
+#first{
+	margin-left:120px;
+}
+.boxed {
+  border: 2px solid white;
+  margin-right: 400px;
+} 
+
+.boxe2 {
+  border: 2px solid white;
+  margin-top: 12px;
+  margin-right: 400px;
+} 
+
+
